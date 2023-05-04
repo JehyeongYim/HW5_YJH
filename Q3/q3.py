@@ -73,7 +73,7 @@ def main():
             
     print("*** Subway Report for Seoul on March 2023 ***")
     print("1st Busiest Line: Line",max_h1,"(",max_1,")")
-    print("12nd Busiest Line: Line",max_h2,"(",max_2,")")
+    print("2nd Busiest Line: Line",max_h2,"(",max_2,")")
     print("1st Least used Line: Line",min_h1,"(",min_1,")")
     print("2nd Least used Line: Line",min_h2,"(",min_2,")")
     f.close()
